@@ -1,0 +1,5 @@
+//Constantes
+export const STATE_ADD_TWEET_MODAL = "STATE_ADD_TWEET_MODAL";
+export const ADD_TWEET = "ADD_TWEET";
+export const DELETE_TWEET = "DELETE_TWEET";
+export const VALIDATION_FORM_ADD_TWEET = "VALIDATION_FORM_ADD_TWEET";
